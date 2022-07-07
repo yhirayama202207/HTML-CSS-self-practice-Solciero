@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.shopname {
+  color: #87ceeb;
+  font-size: 50px;
+  margin-left: 20px;
+  font-family: "Avenir Next"
+}
+
+.main-picture {
+  width: 100%;
+  height: 230px;
+}
+
+.hasegawasan-picture{
+  width: 200px;
+  height: 250px;
+}
+
+.lineqrcode {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  color: #87ceeb;
+  font-family: "Avenir Next"
+}
+
+h2 {
+  color: #87ceeb;
+  font-size: 25px;
+  font-family: "Avenir Next"
+}
+
+p {
+  font-family:"Avenir Next"
+}
+
+main {
+  display: flex;
+}
+
+.shop-picture {
+  width: 500px;
+  height: 300px;
+}
+
+footer {
+  width: 100%;
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  background-color: #87ceeb;
+  margin-top: 850px;
+}
+
+.footer-text {
+  color: #fff;
+}
